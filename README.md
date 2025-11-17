@@ -60,8 +60,6 @@ npm install
 npm start
 Base URL:
 
-arduino
-Copy code
 https://auth-five-taupe.vercel.app
 API Endpoints
 Auth Routes
