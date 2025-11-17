@@ -28,25 +28,6 @@ This backend includes everything needed for basic auth and user handling:
 
 ---
 
-## Project Structure
-controllers/
-db/
-helpers/
-middleware/
-models/
-postman-tests/
-routes/
-uploads/
-utils/
-server.js
-vercel.json
-package.json
-
-yaml
-Copy code
-
----
-
 ## Features
 - User registration and login  
 - JWT-based authentication  
@@ -68,9 +49,6 @@ JWT_SECRET=your_secret_key
 CLOUD_NAME=your_cloudinary_cloud
 API_KEY=your_cloudinary_api_key
 API_SECRET=your_cloudinary_api_secret
-
-yaml
-Copy code
 
 ---
 
